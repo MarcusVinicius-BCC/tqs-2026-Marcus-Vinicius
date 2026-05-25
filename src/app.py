@@ -1,5 +1,3 @@
-
-
 from flask import Flask, jsonify, render_template, request
 
 from src.validators import validar_cpf, validar_email
